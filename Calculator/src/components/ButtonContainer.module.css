@@ -1,0 +1,7 @@
+.button_container {
+  margin: 5px 35px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}

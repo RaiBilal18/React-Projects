@@ -1,0 +1,34 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.App-Container {
+  display: flex;
+}
+.Content-Container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.cardstyling {
+  margin: 20px 50px;
+  padding: 10px;
+}
+.tagstyling {
+  margin-left: 2px;
+}
+.reactions {
+  margin: 15px 0px 0px 0px;
+}
+.CreatePost {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+}
+.WellcomeText {
+  margin: 100px 0;
+}
+.loadingspinner {
+  margin: 5rem 0;
+}

@@ -1,0 +1,7 @@
+.CalculatorContainer {
+  margin-top: 3rem;
+  margin-left: 4rem;
+  border: 1px solid black;
+  min-height: 70vh;
+  width: 18rem;
+}
